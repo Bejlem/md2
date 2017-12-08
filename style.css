@@ -136,7 +136,7 @@ header:hover {
 ------------------------------------------------------*/
 input[type='text'] {
     background: var(--black33-color);
-    color: var(--shadow75-color);
+    color: var(--shadow25-color);
     padding: 5px;
     font-size: 2em;
     text-align: center;
