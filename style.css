@@ -63,16 +63,6 @@ body {
     height: 70px;
 }
 
-.spacer_links {
-    /*width: 12px;
-    height: 100%;
-    float: left;*/
-}
-
-.hide {
-    display: none;
-}
-
 /*----------------------------------------------------------------
         General Styling
 ----------------------------------------------------------------*/
@@ -88,7 +78,6 @@ header {
     margin-left: auto;
     margin-right: auto;
     border: 2px solid  var(--shadow1-color);
-    /*box-shadow: 0 0px 8px 0px var(--shadow5-color);*/
     box-shadow: 0 0px 20px 0px var(--shadow5-color);
     transition: box-shadow 300ms;
 }
